@@ -34,12 +34,13 @@ This is a collaboration protocol, not a clinical assessment or treatment program
 | [Human protocol](playbooks/human-led-ai.md) | Human rights, agent commitments, pauses, and return to work |
 | [Task brief](templates/task-brief.md) | A useful outcome within human boundaries |
 | [Decision card](templates/decision-card.md) | A small, clear choice with a genuine pause option |
+| [Small tasks, bounded human demand](notes/claude-agent-os-human-demand.md) | Lessons from Kamil Matysik's Claude Agent OS and our human-first additions |
 | [Sources](SOURCES.md) | Origins, scope, and specialist technical references |
 | [Contributing](CONTRIBUTING.md) | Improve the protocol without adding pressure or surveillance |
 
 ## Technical implementation belongs with specialists
 
-For implementation, consult the maintainers and documentation of [Cezar](https://github.com/open-mercato/cezar) for coding-agent orchestration and [Basal](https://github.com/rkinas/basal) for typed decisions and classification. Other tools may fit a particular context better.
+For implementation, consult the maintainers and documentation of [Cezar](https://github.com/open-mercato/cezar) for coding-agent orchestration and [Basal](https://github.com/rkinas/basal) for typed decisions and classification. [Claude Agent OS by Kamil Matysik](https://github.com/KamilMatysikAI/claude-agent-os) offers a file-based approach to coordinating agent work and explicit human tasks. See our [human-demand analysis](notes/claude-agent-os-human-demand.md). Other tools may fit a particular context better.
 
 These are references, not integrations, safety certifications, or universal recommendations. This project does not maintain engines, model benchmarks, deployment instructions, or orchestration infrastructure. Whatever tool you choose, check whether its actual behavior respects your boundaries. A Markdown file cannot enforce them.
 
