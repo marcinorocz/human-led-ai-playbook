@@ -1,25 +1,23 @@
-# Decision card
+# A decision without pressure
 
-Use only when a human decision materially affects the outcome or authority to proceed. Do not escalate routine choices already delegated.
+Use only when a human decision is genuinely required. Keep it short; show supporting detail on request.
 
-**Decision needed:** One sentence.
+**Decision:** One sentence.
 
-**Why now:** Real deadline or consequence; no artificial urgency.
+**Why now:** Actual deadline and consequence, or “This can wait.”
 
-**Evidence:** Source, date/version, finding, and material uncertainty.
+**What we know:** Key evidence and material uncertainty.
 
-| Option | Action | Benefit | Cost or risk |
-| --- | --- | --- | --- |
-| A — Recommended | | | |
-| B — Alternative | | | |
-| C — Defer or stop | | | |
+| Option | Outcome | Human effort and trade-off |
+| --- | --- | --- |
+| A — Recommended | | |
+| B — Alternative | | |
+| C — Pause, reduce, or decline | | |
 
-**While waiting:** Continue specified safe, authorized work. Keep the gated action paused. Silence is not approval.
+These options are aids, not a restriction on the person's choices.
 
-**Human decision:**
+**While waiting:** No new consent is assumed. Hold gated actions and respect protected time. Do not repeat nonurgent reminders.
 
-**Scope / limits / expiry of authorization:**
+**Decision, if made:** Record the choice and its scope. Do not record health information or a private explanation for declining.
 
-**Decision timestamp and owner:**
-
-**Execution and verification evidence:**
+If the person has already said stop, acknowledge the stop instead of asking them to fill in this card.
