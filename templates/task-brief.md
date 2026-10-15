@@ -6,8 +6,9 @@ The agent prepares this from known context. Ask the person only about material g
 - **Enough:** What is acceptable, and where does the work end?
 - **Human owner:** Who chooses direction and consequential commitments?
 - **Available context:** Approved sources and known gaps.
-- **Allowed work:** What can proceed without another decision?
-- **Consent needed:** What must wait for the human?
+- **Allowed work (Two-Way Doors):** What can proceed and adapt without another decision?
+- **Consent needed (One-Way Doors):** What irreversible actions must wait for the human?
+- **Quality gate (TQM):** Automated checks / verifiable criteria before human review.
 - **Attention boundary:** Detail level, review effort, and contact window.
 - **Human request status:** Proposed, accepted, deferred, or declined; a dependency does not imply acceptance.
 - **Combined human effort:** Estimate reading, decisions, execution, and follow-up against the person's agreed capacity across projects.
@@ -25,4 +26,4 @@ Prepare a one-page meeting brief from the approved notes. It is enough when the 
 
 ## Completion
 
-Report: what is ready, what remains uncertain, and where to find it. Add a next step only if needed for the requested outcome. Do not refill the person's task list.
+Report: what is ready, what remains uncertain, and where to find it. If any human correction occurred, update project rules/memory to eliminate root causes. Add a next step only if needed for the requested outcome. Do not refill the person's task list.

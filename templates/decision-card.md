@@ -1,12 +1,18 @@
 # A decision without pressure
 
-Use only when a human decision is genuinely required. Keep it short; show supporting detail on request.
+Use only when a human decision is genuinely required (One-Way Door / Irreversible commitment). Keep it short (BLUF); show supporting detail on request.
 
-**Decision:** One sentence.
+**Decision:** One sentence stating the core choice.
+
+**Type & Reversibility:** 
+- [ ] One-way door (Irreversible / High-consequence: requires human consent)
+- [ ] Two-way door (Reversible: recommendation already applied or proposed, human input optional)
 
 **Why now:** Actual deadline and consequence, or “This can wait.”
 
 **Proposed change and scope:** What will change, who or what is affected, and exactly what approval permits.
+
+**Quality at Source (TQM Pre-flight):** Automated tests, linter, or sanity checks executed prior to this request. Never ask the person to catch mechanical defects.
 
 **What we know:** Key evidence, material uncertainty, and what has not been checked. Link supporting detail where available.
 
