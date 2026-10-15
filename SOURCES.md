@@ -25,6 +25,14 @@ Their documentation was consulted during the project's initial comparison. These
 
 We defer deployment, model selection, security engineering, benchmarking, and orchestration details to specialist maintainers and qualified implementers.
 
+## Claude Agent OS: explicit human tasks and decisions
+
+[Kamil Matysik's Claude Agent OS](https://github.com/KamilMatysikAI/claude-agent-os) is an additional reference for file-based coordination, short human tasks, recommended decisions, and evidence-based completion.
+
+We consulted its README and the author's article supplied by a reader. The article's activity figures are self-reported and have not been independently reproduced. Our [analysis](notes/claude-agent-os-human-demand.md) records the consulted README blob and separates source practices from our additions: an overall human attention budget, pending requests versus accepted commitments, and slowing the inflow of human work.
+
+These additions extend the human protocol to version 2.1. They do not establish an integration or certify the external project's controls.
+
 ## Evidence and limits
 
 The protocol was prepared with AI assistance and expresses practices to evaluate. It has not been validated as a mental health intervention. Do not claim that it prevents burnout, diagnoses distress, or treats illness.
