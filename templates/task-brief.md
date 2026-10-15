@@ -1,35 +1,23 @@
-# Task brief
+# A task within human boundaries
 
-Copy and adapt this brief. The agent should fill known information and ask only about material gaps. This template grants no permission on its own.
+The agent prepares this from known context. Ask the person only about material gaps. No health disclosure is required.
 
-- **Task ID:**
-- **Accountable human:**
-- **Delivery owner:**
-- **Role / expertise needed:**
-- **Outcome:** What observable improvement matters?
-- **Context and audience:** Why does this matter, and to whom?
-- **Authoritative sources:** References, versions, freshness, known gaps.
-- **Scope and exclusions:**
-- **Deliverable:** Format and destination.
-- **Acceptance criteria:** Observable checks that establish success.
-- **Allowed actions:** Existing authorization and its limits.
-- **Actions requiring approval:**
-- **Data boundary:** Approved sources, destinations, and processing locations.
-- **Limits:** Deadline, spend cap, review budget. Unspecified budget does not authorize new spend.
-- **Recovery:** Rollback or correction method where relevant.
-- **Escalation triggers:** Concrete circumstances requiring a decision.
+- **Useful outcome:** What will this make easier?
+- **Enough:** What is acceptable, and where does the work end?
+- **Human owner:** Who chooses direction and consequential commitments?
+- **Available context:** Approved sources and known gaps.
+- **Allowed work:** What can proceed without another decision?
+- **Consent needed:** What must wait for the human?
+- **Attention boundary:** Detail level, review effort, and contact window.
+- **Protected time:** Unavailable periods, if the person chooses to specify them.
+- **Real deadline:** Its source and consequence; omit if none.
+- **If there is no reply:** Hold gated actions; no repeated nonurgent reminders.
+- **Stop:** Stop new work, report actual running work, preserve a short handoff.
 
-## Example: weekly project brief
+## Example
 
-- Outcome: Give the project owner a reliable view of blockers and next decisions.
-- Sources: Approved project board and meeting notes for the reporting period.
-- Deliverable: One-page internal draft with links to evidence.
-- Acceptance: Every status claim has a source; missing coverage is visible; proposals are distinct from confirmed decisions.
-- Allowed: Read designated sources and prepare the draft.
-- Approval required: Sending messages, changing project records, adding new sources.
-- Limits: No new paid services; one review and correction pass unless an acceptance failure remains.
-- Escalate: Conflicting authoritative sources or a material decision that cannot wait for the review window.
+Prepare a one-page meeting brief from the approved notes. It is enough when the confirmed facts, open decisions, and source links are clear. Prepare a draft only; do not send messages or create commitments. Ask at most one material question at a time. Routine questions can wait for the agreed review window. If I say stop, save where we are and do not schedule a restart.
 
-## Completion report
+## Completion
 
-State the outcome, artifact location, checks performed, unresolved limitations, and human effort required. Distinguish prepared, executed, and verified.
+Report: what is ready, what remains uncertain, and where to find it. Add a next step only if needed for the requested outcome. Do not refill the person's task list.
