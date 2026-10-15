@@ -21,6 +21,8 @@ No daily reporting ritual, health disclosure, or productivity streak is required
 
 - Human choice, consent, and the right to stop.
 - Manageable decisions, concise communication, and freedom from manufactured urgency.
+- Informed approvals: evidence, uncertainty, consequences, and recovery options.
+- Workflows that slow new approval demands when agreed human review capacity is full.
 - Rest, relationships, privacy, and the right to be unavailable.
 - Honest evidence and the ability to disagree with AI.
 - Practices for sharing work without transferring all coordination burden to a person.
@@ -47,6 +49,8 @@ These are references, not integrations, safety certifications, or universal reco
 ## How we judge usefulness
 
 Does the person have more choice, less unwanted interruption, and a manageable amount of review work? Can they stop without pressure and resume without rebuilding the context?
+
+Review includes understanding evidence, checking results, and following up—not just clicking approve. Optional observations of review effort, unwanted interruptions, and work outside agreed hours should improve the workflow, never become employee scores or health surveillance.
 
 A faster workflow does not pass if it violates the person's boundaries. Rest does not need to produce a measurable business return.
 
