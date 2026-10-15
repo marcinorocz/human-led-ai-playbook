@@ -9,6 +9,11 @@ The agent prepares this from known context. Ask the person only about material g
 - **Allowed work:** What can proceed without another decision?
 - **Consent needed:** What must wait for the human?
 - **Attention boundary:** Detail level, review effort, and contact window.
+- **Human request status:** Proposed, accepted, deferred, or declined; a dependency does not imply acceptance.
+- **Combined human effort:** Estimate reading, decisions, execution, and follow-up against the person's agreed capacity across projects.
+- **Small first step:** Optional 1–3 minute starting action when useful; an estimate, not a quota.
+- **If capacity is full:** Consolidate or defer requests; pause demand-generating work within authority.
+- **Latest instruction and evidence:** Read the latest owner note; verify the claimed outcome before closing. A permission refusal stops the denied action.
 - **Protected time:** Unavailable periods, if the person chooses to specify them.
 - **Real deadline:** Its source and consequence; omit if none.
 - **If there is no reply:** Hold gated actions; no repeated nonurgent reminders.
