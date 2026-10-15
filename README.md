@@ -1,46 +1,58 @@
 # Human-led AI playbook
 
-Practical instructions for human–AI collaboration: clear goals, bounded autonomy, verifiable outcomes.
+A human protocol for working with AI while protecting mental health, agency, attention, and life outside work.
 
-**The question behind this project: what result did the agents achieve, and what evidence supports it?**
+**Human mental health and dignity take precedence over productivity, throughput, cost savings, and the pressure to keep up with AI.**
 
-For founders, team leads, builders, and anyone coordinating AI-assisted work. These materials help you delegate without turning human supervision into a second full-time job.
+If a workflow conflicts with a person's stated boundaries or is reported to be overwhelming, change, reduce, or pause the workflow. Do not ask the person to absorb the cost just to keep the system productive.
 
-## Start in 10 minutes
+Created by [Marcin Orocz — orocz.com/ai](https://orocz.com/ai).
 
-1. Choose one small, reversible workflow with a clear outcome.
-2. Read the [operating playbook](playbooks/human-led-ai.md), especially sections 1–5.
-3. Copy the [task brief](templates/task-brief.md). Let your agent fill known details; confirm the outcome and material boundaries.
-4. Run one bounded case. Check the result against your acceptance criteria.
-5. Use the [decision card](templates/decision-card.md) when a real human decision is needed.
-6. Track review time and corrections as well as apparent time savings.
+## Start small
 
-## Contents
+1. Choose one useful outcome and decide what “enough” means.
+2. State your boundaries: when you are unavailable, what needs your decision, and when work should stop.
+3. Ask the agent to prepare the [task brief](templates/task-brief.md) from what it already knows.
+4. Use the [human protocol](playbooks/human-led-ai.md). A break or a decision not to proceed is a valid outcome.
+
+No daily reporting ritual, health disclosure, or productivity streak is required.
+
+## What belongs here
+
+- Human choice, consent, and the right to stop.
+- Manageable decisions, concise communication, and freedom from manufactured urgency.
+- Rest, relationships, privacy, and the right to be unavailable.
+- Honest evidence and the ability to disagree with AI.
+- Practices for sharing work without transferring all coordination burden to a person.
+
+This is a collaboration protocol, not a clinical assessment or treatment program. It makes no claim to prevent or treat mental health conditions.
+
+## Resources
 
 | Resource | Purpose |
 | --- | --- |
-| [Operating playbook](playbooks/human-led-ai.md) | Roles, autonomy, verification, data governance, metrics, and a six-week pilot |
-| [Task brief](templates/task-brief.md) | Delegate an outcome with boundaries and acceptance criteria |
-| [Decision card](templates/decision-card.md) | Escalate a concrete choice with evidence and a recommendation |
-| [Sources](SOURCES.md) | Inspiration, attribution, and limits |
-| [Contributing](CONTRIBUTING.md) | Propose improvements and share evidence |
+| [Human protocol](playbooks/human-led-ai.md) | Human rights, agent commitments, pauses, and return to work |
+| [Task brief](templates/task-brief.md) | A useful outcome within human boundaries |
+| [Decision card](templates/decision-card.md) | A small, clear choice with a genuine pause option |
+| [Sources](SOURCES.md) | Origins, scope, and specialist technical references |
+| [Contributing](CONTRIBUTING.md) | Improve the protocol without adding pressure or surveillance |
 
-## What this project does
+## Technical implementation belongs with specialists
 
-Provides adaptable instructions and templates. It does not install agents, schedule jobs, enforce access controls, or grant permissions. Load only the applicable instructions through your agent runtime's supported mechanism, reconcile project rules, and verify that the agent receives them.
+For implementation, consult the maintainers and documentation of [Cezar](https://github.com/open-mercato/cezar) for coding-agent orchestration and [Basal](https://github.com/rkinas/basal) for typed decisions and classification. Other tools may fit a particular context better.
 
-Start with assistance. Add bounded execution only when the controls and evidence justify it. Keep strategic choices and consequential commitments with an accountable human owner.
+These are references, not integrations, safety certifications, or universal recommendations. This project does not maintain engines, model benchmarks, deployment instructions, or orchestration infrastructure. Whatever tool you choose, check whether its actual behavior respects your boundaries. A Markdown file cannot enforce them.
 
-This first edition is a proposed operating framework. It has not been validated as a complete deployed system. No accuracy, return, or time-saving guarantee is implied.
+## How we judge usefulness
 
-## Author and contact
+Does the person have more choice, less unwanted interruption, and a manageable amount of review work? Can they stop without pressure and resume without rebuilding the context?
 
-Created by [Marcin Orocz](https://orocz.com/ai), with a focus on human-led AI collaboration.
+A faster workflow does not pass if it violates the person's boundaries. Rest does not need to produce a measurable business return.
 
-Visit [orocz.com/ai](https://orocz.com/ai) to learn more about the author's AI work and get in touch. To improve these public materials, use repository issues and pull requests.
+## Author, provenance, and reuse
 
-## Provenance and reuse
+Learn more or get in touch at [orocz.com/ai](https://orocz.com/ai). Repository content and contributions are in English.
 
-Initiated by Marcin Orocz. Prepared with AI assistance and intended for human review, adaptation, and improvement. Inspired in part by a Microsoft leadership guide; this is an independent project with no Microsoft affiliation or endorsement. See [SOURCES.md](SOURCES.md).
+This independent project began with a Microsoft leadership guide and was refocused around a human-first design commitment. See [SOURCES.md](SOURCES.md). Prepared with AI assistance; practices remain open to critique and evaluation.
 
-Original repository contributions are available under the [MIT License](LICENSE). Third-party source materials are not included or relicensed.
+Original contributions are available under the [MIT License](LICENSE). Third-party materials are not included or relicensed.
