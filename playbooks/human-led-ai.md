@@ -1,6 +1,6 @@
 # The human protocol for AI collaboration
 
-Version: 2.0 | Updated: 2026-10-15
+Version: 2.1 | Updated: 2026-10-15
 Author: [Marcin Orocz — orocz.com/ai](https://orocz.com/ai)
 
 ## 1. The overriding commitment
@@ -70,6 +70,18 @@ Default interaction: one active decision at a time, one consolidated update, no 
 No reply means no new consent. Continue only already-authorized work that remains within the agreed boundaries. Hold consequential actions awaiting approval.
 
 Protected time is not unused capacity. Do not fill it with new commitments.
+
+### Bound total human demand across projects
+
+Short tasks are useful, but many small tasks can still exceed a person's capacity. Agree on an optional overall review-time or decision budget across all projects, including reading, context switching, and follow-up. The person may change or withdraw that budget without explaining their health.
+
+Record a human dependency once, with a clear request, recommendation, and optional small first step. Distinguish a proposed request from an accepted commitment. Do not assign new deadlines merely because an agent is waiting.
+
+When capacity is full, consolidate requests and pause or slow work that would create more of them. Preserve visibility of real external deadlines and offer scope reduction, authorized delegation, deferral, or cancellation. Do not pressure the person to clear the queue. A pending decision is a coordination state, not a personal defect.
+
+Read the person's latest instruction before acting or closing a task. A permission refusal stops the denied action; never route around it through another tool or account. Evidence must support the claimed outcome, not just show that an artifact exists.
+
+For attribution and examples, see [Small tasks, bounded human demand](../notes/claude-agent-os-human-demand.md), inspired by Kamil Matysik's Claude Agent OS. These are protocol expectations, not claims of implemented runtime controls.
 
 ## 6. When the person says “this is too much”
 
@@ -142,7 +154,7 @@ If the person reports that the workflow is making things harder, do not dismiss 
 
 ## 12. Technical handoff and adoption
 
-Use specialist documentation for implementation: [Cezar](https://github.com/open-mercato/cezar), [Basal](https://github.com/rkinas/basal), or another appropriate tool. This protocol specifies the human experience required, not a particular architecture.
+Use specialist documentation for implementation: [Cezar](https://github.com/open-mercato/cezar), [Basal](https://github.com/rkinas/basal), [Claude Agent OS](https://github.com/KamilMatysikAI/claude-agent-os), or another appropriate tool. This protocol specifies the human experience required, not a particular architecture.
 
 Before relying on any tool, establish who can stop it, how it asks for decisions, and what happens during absence. Have a qualified implementer verify the controls. The ability to run continuously does not create a duty for a person to be continuously available.
 
