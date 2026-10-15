@@ -43,6 +43,14 @@ Our version 2.2 additions apply that analogy to human attention: informed approv
 
 We have not evaluated Port.io or verified the post's claims about delivery speed or product capabilities. This reference does not imply affiliation, endorsement, integration, or certification. The supplied post and its images are not redistributed.
 
+## Optional circuit breakers and trusted-person release
+
+Version 2.3 adds a project-owner proposal prompted by a supplied X conversation with Kamil Matysik about context switching, input methods, and personal work boundaries. A canonical thread URL has not been verified. The conversation is anecdotal; it does not validate typing-based overload detection or health outcomes.
+
+The driver-attention comparison is a design analogy only. Our proposed check-ins, operational time/spending limits, and voluntary trusted-person release are not claimed features of Claude Agent OS, Basal, or Cezar. Implementation and enforcement must be verified separately.
+
+For the distinction between authentication and the surrounding authorization design, consult [NIST SP 800-63B-4: Authenticators](https://pages.nist.gov/800-63-4/sp800-63b/authenticators/), consulted on 2026-10-16. NIST states that manually entered OTP outputs are not phishing-resistant. NIST is cited for authentication properties, not as an endorsement of our trusted-person agreement or as evidence that it protects mental health. The release policy, privacy boundaries, and recovery requirements are this project's proposals.
+
 ## Evidence and limits
 
 The protocol was prepared with AI assistance and expresses practices to evaluate. It has not been validated as a mental health intervention. Do not claim that it prevents burnout, diagnoses distress, or treats illness.
