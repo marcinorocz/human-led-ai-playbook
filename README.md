@@ -24,6 +24,7 @@ No daily reporting ritual, health disclosure, or productivity streak is required
 - Informed approvals: evidence, uncertainty, consequences, and recovery options.
 - Workflows that slow new approval demands when agreed human review capacity is full.
 - Rest, relationships, privacy, and the right to be unavailable.
+- Optional, pre-agreed time and spending pauses, with narrowly scoped trusted-person release and independent recovery.
 - Honest evidence and the ability to disagree with AI.
 - Practices for sharing work without transferring all coordination burden to a person.
 
