@@ -33,6 +33,16 @@ We consulted its README and the author's article supplied by a reader. The artic
 
 These additions extend the human protocol to version 2.1. They do not establish an integration or certify the external project's controls.
 
+## Chorouk Malmoum: human capacity at the approval stage
+
+Source: a LinkedIn post by [Chorouk Malmoum](https://www.linkedin.com/in/chorouk-malmoum/), supplied in full by the project owner and consulted on 2026-10-16. A canonical post URL and publication date have not been verified; the link identifies the author, not the post.
+
+The post uses a factory analogy to argue that accelerating coding alone can move the bottleneck to review, testing, or approval. It describes shared context, workflows, and guardrails as ingredients for work across the delivery lifecycle, and discusses Port.io.
+
+Our version 2.2 additions apply that analogy to human attention: informed approval, bounded approval queues, protected offline time, and optional observation of review effort and interruptions. These are our design proposals, not claims made by the author or evidence of health benefits.
+
+We have not evaluated Port.io or verified the post's claims about delivery speed or product capabilities. This reference does not imply affiliation, endorsement, integration, or certification. The supplied post and its images are not redistributed.
+
 ## Evidence and limits
 
 The protocol was prepared with AI assistance and expresses practices to evaluate. It has not been validated as a mental health intervention. Do not claim that it prevents burnout, diagnoses distress, or treats illness.
