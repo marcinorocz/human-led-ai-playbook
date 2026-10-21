@@ -14,6 +14,10 @@ Use only when a human decision is genuinely required (One-Way Door / Irreversibl
 
 **Quality at Source (TQM Pre-flight):** Automated tests, linter, or sanity checks executed prior to this request. Never ask the person to catch mechanical defects.
 
+**External Audit / Counter-Perspective (For One-Way Doors):** Independent verification, critique from an alternative model/source, or devil's advocate check to avoid single-model echo chambers.
+
+**Two-Minute Actionable Handover:** Single command or immediate observable check for the person to verify state in < 2 minutes (no blind diff inspections).
+
 **What we know:** Key evidence, material uncertainty, and what has not been checked. Link supporting detail where available.
 
 **Recovery:** Can this be reversed, by whom, and with what known limits or cost? State when unknown.

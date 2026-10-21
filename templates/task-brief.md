@@ -9,6 +9,8 @@ The agent prepares this from known context. Ask the person only about material g
 - **Allowed work (Two-Way Doors):** What can proceed and adapt without another decision?
 - **Consent needed (One-Way Doors):** What irreversible actions must wait for the human?
 - **Quality gate (TQM):** Automated checks / verifiable criteria before human review.
+- **Review limit:** 1+1 rule (max 1 review round + 1 revision pass; no infinite perfectionist loops).
+- **Two-minute handover:** Single command or observable check for quick verification.
 - **Attention boundary:** Detail level, review effort, and contact window.
 - **Human request status:** Proposed, accepted, deferred, or declined; a dependency does not imply acceptance.
 - **Combined human effort:** Estimate reading, decisions, execution, and follow-up against the person's agreed capacity across projects.
